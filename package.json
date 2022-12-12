@@ -1,5 +1,5 @@
 {
-  "name": "pixiengine",
+  "name": "pixengine",
   "version": "0.0.0",
   "description": "A simple Wrapper around pixi.js library",
   "main": "index.js",
